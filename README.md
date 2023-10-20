@@ -1,11 +1,11 @@
 # SMX2-M8UF1A1-HistoriaWeb-2007-IPhone-ErickGutierrez
 ### ¿Ques es?
-Es una marca dispositvos moviles, ordenadores, relojes, etc. Pero por lo mas que caracteriza es por los disporitivos moviles. 
+Es una marca dispositvos moviles, ordenadores, relojes, etc. Pero por lo mas que caracteriza es por los disporitivos moviles creado por Steve Jobs. 
 
 ![Iphone](https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-13-pro-max-graphite-2023?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1679072989055)
 
-### Quien creo IPhone?
-El iPhone fue creado por Apple Inc., una empresa tecnológica con sede en Cupertino, California. El desarrollo del iPhone fue liderado por Steve Jobs, cofundador de Apple, y un equipo de ingenieros y diseñadores. 
+### Quien creo Apple?
+Apple fue creado por Steve Jobs, Steve Wozniak y Ronald Wayne. Esta empresa fue establecida el 1 de abril de 1976 en California, Cupertino. 
 
 ## El primer Iphone
 ![Iphone](https://imagenes.20minutos.es/files/article_default_content/files/fp/uploads/imagenes/2021/11/04/el-iphone-original-o-2g.r_d.470-313.png)
@@ -20,7 +20,8 @@ El iPhone fue creado por Apple Inc., una empresa tecnológica con sede en Cupert
 |Memoria RAM       |	128 MB|
 |Almacenamiento Interno |	4 GB o 8 GB|
 |Cámara Principal   |	2 megapíxeles|
-|Conectividad       |	GSM, GPRS, EDGE, Wi-Fi 802.11b/g, Bluetooth 2.0|
+|Conectividad       |	GSM, GPRS, EDGE, Wi-Fi 802.11b/g, |
+|Bluetoot|  2.0|
 |Batería            |	Batería recargable de iones de litio con hasta 8 horas de tiempo de conversación y 250 horas de tiempo en espera|
 |Dimensiones        |	115 mm de alto, 61 mm de ancho, 11.6 mm de grosor|
 |Peso               |	Aproximadamente 135 gramos     |
