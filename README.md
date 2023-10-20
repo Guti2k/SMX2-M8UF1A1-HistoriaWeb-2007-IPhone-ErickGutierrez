@@ -9,6 +9,8 @@ Apple fue creado por Steve Jobs, Steve Wozniak y Ronald Wayne. Esta empresa fue 
 
 ## El primer Iphone
 ![Iphone](https://imagenes.20minutos.es/files/article_default_content/files/fp/uploads/imagenes/2021/11/04/el-iphone-original-o-2g.r_d.470-313.png)
+ 29 junio 2007
+
 
 |Característica    |	Especificación                   |
 |------------------|-------------------------------------|
